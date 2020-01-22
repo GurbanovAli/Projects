@@ -1,0 +1,19 @@
+{
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "plugins": [
+    "react"
+  ],
+  "extends": "react",
+  "parser": "babel-eslint",
+  "rules": {
+    "react/prop-types": 0
+  },
+  "globals": {
+    "firebase": true,
+    "APNGencoder": true,
+    "bytesToBase64": true
+  }
+}

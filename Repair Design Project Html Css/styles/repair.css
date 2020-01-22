@@ -1,0 +1,148 @@
+.vid_image{
+  width: 840px;
+  height: 460px;
+  padding-left: 311px;
+  margin-top: -220px;
+}
+
+.types{
+  text-align: center;
+  color: black;
+  padding-top: 52px;
+}
+
+.des_text_descp{
+  font-family: 'FuturaBookC';
+  font-size: 20px;
+  line-height: 27px;
+}
+
+.types_place{
+  margin-top: 122px;
+}
+
+.types_repair{
+  display:flex;
+  padding-top: 52px;
+  padding-bottom: 220px;
+}
+
+.descp_r{
+  color: black;
+  padding-left: 31px;
+  padding-top: 25px;
+}
+
+.repair_descp{
+  font-family: 'FuturaBookC';
+  font-size: 15px;
+  line-height: 25px;
+}
+
+.price{
+  color: white;
+	width: 228px;
+  height: 44px;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  text-transform: uppercase;
+  position: relative;
+	background-color: #E3B873;
+  padding-left: 16.5px;
+  padding-top: 17px;
+  margin-left: 31px;
+  margin-top: -28px;
+}
+
+.repair_one{
+  width:370px;
+  justify-content: flex-start;
+  margin-left: 103px;
+  padding: 30px;
+}
+
+.repair_one_img{
+  width: 392px;
+  height: 421px;
+  object-fit: cover;
+}
+
+.repair_one_description{
+  background-color: white;
+  width: 330px;
+  height: 286px;
+  position: relative;
+  margin-left: 31px;
+  margin-top: -121px;
+}
+
+.repair_for_one_description{
+  background-color: white;
+  width: 330px;
+  height: 211px;
+  position: relative;
+  margin-left: 31px;
+  margin-top: -121px;
+}
+
+.repair_two_description{
+  background-color: white;
+  width: 330px;
+  height: 286px;
+  position: relative;
+  margin-left: 31px;
+  margin-top: -121px;
+}
+
+.repair_two{
+  width:370px;
+  justify-content: center;
+  padding: 30px;
+}
+
+.repair_two_img{
+  width: 392px;
+  height: 421px;
+  object-fit: cover;
+}
+
+.repair_two_description{
+  background-color: white;
+  width: 330px;
+  height: 286px;
+  position: relative;
+  margin-left: 31px;
+  margin-top: -121px;
+}
+
+ .repair_three{
+   width: 370px;
+   justify-content: flex-end;
+   padding: 30px;
+ }
+
+.repair_three_img{
+  width: 392px;
+  height: 421px;
+  object-fit: cover;
+}
+
+.repair_three_description{
+  background-color: white;
+  width: 330px;
+  height: 286px;
+  position: relative;
+  margin-left: 31px;
+  margin-top: -121px;
+}
+
+.repair_for_three_description{
+  background-color: white;
+  width: 330px;
+  height: 414px;
+  position: relative;
+  margin-left: 31px;
+  margin-top: -121px;
+}

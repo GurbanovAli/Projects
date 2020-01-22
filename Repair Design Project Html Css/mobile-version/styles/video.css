@@ -1,0 +1,10 @@
+.video{
+  width:100%;
+}
+
+.video_image{
+  width:90%;
+  height: 207px;
+  padding: 5%;
+  object-fit: cover;
+}

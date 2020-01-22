@@ -1,0 +1,16 @@
+@import './Presets.scss';
+
+.shortcuts-change {
+  padding: 40px;
+  .tool-row {
+    display: flex;
+    margin-bottom: 15px;
+    cursor: pointer;
+    .key-to-change {
+      margin-right: 10px;
+      &.edit {
+        color: yellow;
+      }
+    }
+  }
+}

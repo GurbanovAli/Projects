@@ -1,0 +1,168 @@
+.svg_repair{
+  width: 32.77px;
+  height: 28px;
+}
+
+.types{
+  text-align: center;
+  color: black;
+  padding-top: 52px;
+}
+
+.types_two{
+  background-color: #131313;
+  text-align: center;
+  color: white;
+  padding-top: 78px;
+  margin-top: -180px;
+}
+
+.des_text_descp{
+  font-family: 'FuturaBookC';
+  font-size: 20px;
+  line-height: 27px;
+}
+
+.types_place{
+  margin-top: 122px;
+}
+
+.types_repair{
+  width: 100%;
+  padding-top: 52px;
+  padding-bottom: 20px;
+}
+
+.types_repair_two{
+  background-color: #131313;
+  width: 100%;
+  padding-top: 52px;
+  padding-bottom: 20px;
+}
+
+.descp_r{
+  color: black;
+  padding-left: 31px;
+  padding-top: 25px;
+}
+
+.repair_descp{
+  font-family: 'FuturaBookC';
+  font-size: 15px;
+  line-height: 25px;
+}
+
+.price{
+  color: white;
+	width: 190px;
+  height: 40px;
+  font-family: "Yeseva One";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 138.6%;
+  text-align: center;
+  position: relative;
+	background-color: #E3B873;
+  padding-top: 10px;
+}
+
+.repair_one{
+  width:100%;
+  padding-left: 5%;
+  padding-bottom: 10%;
+}
+
+.repair_one_img{
+  width: 90%;
+  height: 365px;
+  object-fit: cover;
+  margin-bottom: -40%;
+}
+
+li{
+  color: #959595;
+}
+
+.repair_one_description{
+  background-color: white;
+  width: 250px;
+  height: 241px;
+  position: relative;
+  font-family: "FuturaBookC";
+  font-size: 13px;
+  line-height: 169.8%;
+}
+
+.repair_for_one_description{
+  background-color: white;
+  width: 250px;
+  height: 177px;
+  position: relative;
+  font-family: "FuturaBookC";
+  font-size: 13px;
+  line-height: 169.8%;
+}
+
+.repair_two_description{
+  background-color: white;
+  width: 250px;
+  height: 241px;
+  position: relative;
+  font-family: "FuturaBookC";
+  font-size: 13px;
+  line-height: 169.8%;
+}
+
+.repair_two{
+  width:100%;
+  padding-left: 5%;
+  padding-bottom: 10%;
+}
+
+.repair_twoo_img{
+  width: 100%;
+  height: 365px;
+  object-fit: cover;
+  margin-bottom: -40%;
+}
+
+.repair_two_img{
+  width: 90%;
+  height: 365px;
+  object-fit: cover;
+  margin-bottom: -40%;
+}
+
+.repair_three{
+  width:100%;
+  padding-left: 5%;
+  padding-bottom: 10%;
+}
+
+.repair_three_img{
+  width: 90%;
+  height: 365px;
+  object-fit: cover;
+  margin-bottom: -40%;
+}
+
+.repair_three_description{
+  background-color: white;
+  width: 250px;
+  height: 241px;
+  position: relative;
+  font-family: "FuturaBookC";
+  font-size: 13px;
+  line-height: 169.8%;
+}
+
+.w_r_text{
+  font-family: "Yeseva One";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 138.6%;
+  color: #E3B873;
+  text-align: center;
+}

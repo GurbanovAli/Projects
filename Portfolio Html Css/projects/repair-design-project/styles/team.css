@@ -1,0 +1,257 @@
+.our_peoples{
+  margin-top: -510px;
+}
+
+.our_team_base{
+
+}
+
+.team_base_one{
+  color: white;
+  font-family: "Yeseva One";
+  font-size: 20px;
+  text-align: center;
+  padding-top: 55px;
+}
+
+.team_base_two{
+  color: white;
+  font-family:'FuturaBookC';
+  font-size: 20px;
+  text-align: center;
+  padding: 15px;
+}
+
+.our_team{
+  display: flex;
+}
+
+.dmitry{
+  justify-content: flex-start;
+  width: 272px;
+  height: 405px;
+  padding-left: 203px;
+}
+
+.img_dmitry{
+  width: 272px;
+  height: 363px;
+}
+
+.larisa{
+  justify-content: center;
+  width: 272px;
+  height: 405px;
+  padding-left: 106px;
+}
+
+.img_larisa{
+  width: 272px;
+  height: 363px;
+}
+
+.alexey{
+  justify-content: flex-end;
+  width: 272px;
+  height: 405px;
+  padding-left: 106px;
+}
+
+.img_alexey{
+  width: 272px;
+  height: 363px;
+}
+
+.contacts{
+  width: 233px;
+  height: 137px;
+
+  position: relative;
+  margin-left: 20px;
+  margin-top: -83px;
+}
+
+.date{
+  background-color: white;
+  height: 93px;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  padding-top: 24px;
+}
+
+.experience{
+  color: white;
+  background-color: #E3B873;
+  height: 44px;
+  text-align: center;
+  padding-top: 13px;
+}
+
+.team_description{
+  padding-top: 72px;
+}
+
+.p_descp{
+  font-family: 'FuturaBookC';
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  line-height: 29px;
+}
+
+.h4_descp{
+  color: black;
+  font-family: "Yeseva One";
+  font-size: 20px;
+  text-align: center;
+  padding-top: 89px;
+}
+
+.our_clients{
+  display: flex;
+}
+
+.maria{
+  justify-content: flex-start;
+  width: 376px;
+  height: 428px;
+  padding-left: 104px;
+}
+.sergey{
+  justify-content: center;
+  width: 376px;
+  height: 428px;
+  padding-left: 54px;
+}
+
+.egor{
+  justify-content: flex-end;
+  width: 376px;
+  height: 428px;
+  padding-left: 54px;
+}
+
+#deal-img{
+  padding-left: 46.5%;
+}
+
+.client_date{
+  display: flex;
+}
+
+.client_img{
+  justify-content: flex-start;
+}
+
+.client_image{
+  width: 96.8px;
+  height: 96.8px;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  object-fit: cover;
+}
+
+.client_name{
+  font-family: 'Yeseva One';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  justify-content: flex-end;
+}
+
+.client_n{
+  color:black;
+  text-align: center;
+  padding-left: 17px;
+}
+
+.client_comment{
+  color: black;
+  font-family: 'FuturaBookC';
+  word-spacing: 4px;
+  line-height: 155%;
+  opacity: .8;
+}
+
+.size_calendar{
+  color: white;
+  background-color: #E3B873;
+  width: 294.75px;
+  height: 54px;
+  display:flex;
+  margin-top: 63px;
+}
+
+.size{
+  width: 135px;
+  border-right: solid;
+  justify-content:flex-start;
+  text-align: center;
+  padding-top: 16px;
+}
+
+.calendar{
+  width: 159px;
+  justify-content: flex-end;
+  text-align: center;
+  padding-top: 16px;
+}
+
+.questions{
+  width: 883px;
+  height: 445.32px;
+  background-color: #131313;
+  position:relative;
+  margin-left: 280px;
+  margin-top: 132px;
+  margin-bottom: -225.5px;
+}
+
+.question_text{
+  font-family: 'Yeseva One';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 34.4px;
+}
+
+.question_one,.question_two{
+  color:white;
+  width: 231px;
+  display: inline-block;
+  padding-top: 45.84px;
+}
+
+.question_one{
+  padding-left: 180px;
+}
+
+.question_two{
+  padding-left: 58px;
+}
+
+.question_three{
+  color: white;
+  width: 516px;
+  padding-left:180px;
+  padding-top: 45.54px;
+}
+
+.question_four {
+  color: white;
+  display: -webkit-inline-box;
+  padding-left: 302px;
+  padding-top: 52px;
+}
+
+.second_class{
+width: auto;
+}
+
+.q_submit{
+  padding-left: 330px;
+  padding-top:45px;
+}

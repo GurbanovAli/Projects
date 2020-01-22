@@ -1,0 +1,172 @@
+body{
+	max-width: 100%;
+	width:1400px;
+	
+}
+
+.head-foot{
+	background-color:#131313;
+   color:white;
+	 width: 100%;
+	 display: block;
+}
+
+.container {
+	max-width: 1400px;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	padding: 0 20px;
+}
+
+.menu {
+	display: flex;
+	align-items: center;
+	list-style: none;
+
+}
+.menu__wrapper {
+	margin-left: auto;
+	display: block;
+	margin-right: 30px;
+}
+
+.menu__link {
+	font-family: "FuturaBookC";
+	text-decoration: none;
+	display: inline-block;
+	padding: 10px;
+	color: #fff;
+}
+.menu__link::not(:last-child) {
+	margin-left: 20px;
+}
+.contact__wrapper,.tel{
+	display: flex;
+	align-items: center;
+	color: #E3B873;
+	padding: 10px;
+	text-decoration: none;
+}
+.controllers{
+	display: flex;
+	align-items: center;
+}
+.submit{
+	color: white;
+	margin-left: 20px;
+	transition: ease-in-out all 0.2s;
+}
+.submit:hover{
+	background-color: #E3B873;
+	border-color: transparent;
+}
+.calculate{
+	transition: ease-in-out all 0.2s;
+
+}
+.calculate:hover{
+	background-color: #E3B873;
+	border-color: transparent;
+}
+.logo{
+	color:#E3B873;
+	padding-right:50px;
+	padding:15px;
+}
+
+.the-text-bg {
+	color:white;
+	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url(../assets/images/design-one.png);
+	background-size: cover;
+	height:600px;
+}
+.ou{
+	padding-left:30px;
+	padding-top:15%;
+}
+
+h1{
+	padding:10px;
+}
+.description-text{
+	padding:10px;
+}
+.calculate{
+	width:200px;
+	border: 4px solid;
+	border-color:white;
+	padding:8px;
+	margin:10px;
+	border-width:medium;
+	font-size:12px;
+	text-align: center;
+}
+.submit{
+	width:200px;
+	border: 4px solid;
+	border-color:white;
+	padding:8px;
+	margin:10px;
+	border-width:medium;
+	font-size:12px;
+	text-align: center;
+}
+
+.demo{
+	display: flex;
+  align-items: center;
+	size:12px;
+	color:white;
+	position: relative;
+	width: 247px;
+	height: 61px;
+  background-color:#131313;
+	padding:20px;
+	margin-top:-48px;
+}
+
+.demo a {
+  z-index: 2;
+  display: inline-block;
+  color: #fff;
+  font : normal 400 20px/1 'Josefin Sans', sans-serif;
+  letter-spacing: .1em;
+  transition: opacity .3s;
+	margin-left: 20px;
+}
+.demo a:hover {
+  opacity: .5;
+}
+
+  #section01 a span{
+	top: 0;
+  width: 46px;
+  height: 46px;
+	bottom: 0;
+  margin: auto;
+  position: absolute;
+  box-sizing: border-box;
+}
+
+.scroll_down{
+	width: 46px;
+  height: 46px;
+	border-radius: 100%;
+	border: solid;
+	border-color: white;
+}
+
+#section01 a span::after {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  content: '';
+  width: 16px;
+  height: 16px;
+  margin: -12px 0 0 -8px;
+  border-left: 1px solid #fff;
+  border-bottom: 1px solid #fff;
+	transform: rotate(-45deg);
+  box-sizing: border-box;
+}

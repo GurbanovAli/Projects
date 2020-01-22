@@ -1,0 +1,112 @@
+body{
+	width: 375px;
+	margin-left: 35.9%;
+	overflow-x: hidden;
+}
+
+.head-foot{
+	background-color:#131313;
+   color:white;
+	 width: 100%;
+	 display: block;
+}
+
+.container {
+	max-width: 100%;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	padding: 0 20px;
+}
+
+.menu__wrapper {
+	margin-left: auto;
+	display: block;
+}
+
+.contact__wrapper,.tel{
+	color: #fff;
+	font-family: "FuturaDemiC";
+  font-size: 12px;
+  line-height: 14px;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	padding: 10px;
+	text-decoration: none;
+}
+
+.controllers{
+	align-items: center;
+}
+
+.submit{
+	color: white;
+	margin-left: 20px;
+	transition: ease-in-out all 0.2s;
+}
+
+.submit:hover{
+	background-color: #E3B873;
+	border-color: transparent;
+}
+
+.calculate{
+	transition: ease-in-out all 0.2s;
+
+}
+
+.calculate:hover{
+	background-color: #E3B873;
+	border-color: transparent;
+}
+
+.logo{
+	color:#E3B873;
+	width: 100%;
+	font-family: "FuturaDemiC";
+  font-size: 12px;
+  line-height: 14px;
+}
+
+.the-text-bg {
+	color:white;
+	background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url(../assets/images/design-one.png);
+	background-size: cover;
+	width: 100%;
+	height:395px;;
+}
+.ou{
+	font-family: "Yeseva One";
+  font-size: 23px;
+  line-height: 132.83%;
+	padding-left:15px;
+	padding-top:15%;
+}
+
+.description-text{
+	font-family: "FuturaBookC";
+  font-size: 14px;
+  line-height: 135.84%;
+	padding:10px;
+}
+.calculate{
+	width:200px;
+	border: 4px solid;
+	border-color:white;
+	padding:8px;
+	margin:10px;
+	border-width:medium;
+	font-size:12px;
+	text-align: center;
+}
+.submit{
+	width:200px;
+	border: 4px solid;
+	border-color:white;
+	padding:8px;
+	margin:10px;
+	border-width:medium;
+	font-size:12px;
+	text-align: center;
+}

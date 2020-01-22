@@ -1,0 +1,22 @@
+<div class="div">
+  <h1>{{title}}</h1>
+
+
+  <input class="input" type="text" #newTodo>
+  <button class='button' (click)="addTodo(newTodo.value)">Add</button>
+
+  <table class='table'>
+    <tr>
+      <th>Tasks</th>
+      <th>Priority</th>
+      <th>Done</th>
+      <th>Action</th>
+    </tr>
+    <tr *ngFor="let todo of todolist">
+      <td>{{todo.tasks}}</td>
+      <td>{{todo.priority}}</td>
+      <td>{{todo.done ? '&#10003;' :'&#10005;'}}</td>
+      <td><button (click)="deleteTodo(todo)">delete</button></td>
+    </tr>
+  </table>
+</div>

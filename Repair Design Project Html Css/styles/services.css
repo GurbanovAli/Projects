@@ -1,0 +1,116 @@
+.services{
+  display: flex;
+  background-color:#131313;
+  margin-top: -728px;
+  height: 1755px;
+}
+
+.s_one{
+  width: 337px;
+  justify-content: flex-start;
+  padding-left: 97px;
+  padding-top: 428px;
+  padding-bottom: 240px;
+}
+
+.servic_basic_text{
+
+}
+
+.work_text{
+  font-family: 'FuturaDemiC';
+  font-size: 15px;
+  line-height: 21px;
+  text-transform: uppercase;
+}
+
+.s-font{
+  font-size: 27px;
+}
+
+.servic_description{
+  padding-top: 92px;
+}
+
+.p_number{
+  font-family: 'Yeseva One';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 21px;
+  text-transform: uppercase;
+  border-bottom: solid;
+  border-color: #E3B873;
+  width: 22px;
+}
+
+.s_h4{
+  color: #E3B873;
+}
+
+.s_p{
+  font-family: FuturaBookC;
+  font-size: 15px;
+  line-height: 25px;
+}
+
+.s_two{
+  color: white;
+  width: 805px;
+  justify-content: flex-end;
+  padding-left: 136px;
+  padding-top: 519px;
+  padding-right: 99px;
+}
+
+.s_first{
+
+}
+
+.s_first_link {
+  display: flex;
+}
+
+.link_one{
+  justify-content: flex-start;
+  padding-right: 202px;
+}
+
+.link_two{
+  justify-content: center;
+  padding-right: 251px;
+}
+
+.link_three{
+  justify-content: flex-end;
+}
+
+
+
+.s_second_link{
+  display: flex;
+  padding-top: 36px;
+}
+
+.link_four{
+  justify-content: flex-start;
+  padding-right: 183.5px;
+}
+
+.link_five{
+  justify-content: center;
+  padding-right: 190.5px;
+}
+
+.link_six{
+  justify-content: flex-end;
+}
+
+.s_second{
+  padding-top: 43.97px;
+}
+
+.s_img{
+  width: 781px;
+  height: 375.5px;
+}

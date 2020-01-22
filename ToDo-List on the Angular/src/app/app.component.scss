@@ -1,0 +1,31 @@
+.div {
+  text-align: center;
+  margin: auto;
+  width: 400px;
+}
+
+.input {
+  border: 1px solid black;
+  margin: auto auto 15px;
+  width: 200px;
+}
+.button{
+  background: #ff4d4d;
+}
+
+.table {
+  border-collapse: collapse;
+  border: 1px solid black;
+  margin: auto;
+  width: 400px;
+
+  th {
+    background-color: #ebebe0;
+  }
+  td {
+    border: 1px solid black;
+  }
+  button{
+    background: #ff4d4d;
+  }
+}

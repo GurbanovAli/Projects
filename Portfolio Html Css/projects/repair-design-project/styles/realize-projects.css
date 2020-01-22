@@ -1,0 +1,97 @@
+.realize_projects{
+  background: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8) ), url(../assets/images/realize.png);
+  -webkit-background-size: cover;
+  -moz-background-size:  cover;
+  -o-background-size: cover;
+  background-size: cover;
+  display:flex;
+  height: 864px;
+}
+
+.we_realize{
+  max-width: 100%;
+  width: 420px;
+  justify-content: flex-start;
+  padding-left: 99px;
+}
+
+.w_r_text{
+  display:block;
+  width: 380px;
+  padding-top: 137px;
+}
+
+.r_list{
+  list-style: none;
+  padding-top: 22px;
+}
+
+.design_styles {
+  color: white;
+  text-decoration-style: none;
+  padding-left: 0;
+  padding-top: 13px;
+  padding-right: 0;
+  padding-bottom: 13px;
+  margin-left: -35px;
+}
+
+.realize_ph{
+  justify-content: flex-end;
+  width: 660px;
+
+}
+
+.r_top{
+  display: flex;
+}
+
+.ph_div_one{
+  justify-content: flex-start;
+}
+.r_img_one{
+  width: 354px;
+  height: 557px;
+  padding-left: 77px;
+  margin-top: -41px;
+  object-fit: cover;
+}
+
+.ph_div_two{
+  justify-content: flex-end;
+}
+
+.r_img_two{
+  width: 354px;
+  height: 275px;
+  padding-left: 43px;
+  margin-top: -112px;
+  object-fit: cover;
+}
+
+.r_bottom{
+  display: flex;
+}
+
+.ph_div_three{
+  justify-content:flex-start;
+}
+
+.r_img_three{
+  width: 354px;
+  height: 349px;
+  padding-top: 39px;
+  padding-left: 77px;
+  object-fit: cover;
+}
+
+.ph_div_four{
+  justify-content: flex-end;
+}
+
+.r_img_four{
+  width: 354px;
+  height: 624px;
+  padding-left: 43px;
+  margin-top: -319px
+}

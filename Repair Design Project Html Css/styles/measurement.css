@@ -1,0 +1,220 @@
+.measurement{
+  display: flex;
+  padding: 0 50px;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+
+.m_specialist {
+  position: relative;
+  color: black;
+  width: 800px;
+  height: 440px;
+  justify-content: flex-start;
+}
+
+.m_specialist_image {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-image: url(../assets/images/interier.png);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position-x: 450px;
+  transform: rotateY(180deg);
+  filter: grayscale(1);
+  opacity: 0.4;
+}
+
+.m_specialist_image_border {
+  position: absolute;
+  content: '';
+  border: 1px solid #E3B873;
+  border-radius: 50%;
+  width: 550px;
+  height: 500px;
+  left: -127px;
+  top: 0;
+}
+
+.m_spec_descp {
+  display: flex;
+  z-index: 1;
+  align-items: center;
+  max-width: 370px;
+  position: relative;
+  color: black;
+}
+
+.m_spec_descp:before {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #E3B873;
+  flex-shrink:0;
+  margin-right: 10px;
+}
+
+.m_spec_descp.first {
+  margin-top: 35px;
+  margin-left: 311px;
+}
+
+.m_spec_descp.second {
+  margin-top: 45px;
+  margin-left: 370px;
+}
+
+.m_spec_descp.third {
+  margin-top: 82px;
+  margin-left: 404px;
+}
+
+.m_spec_descp.forth {
+  margin-top: 82px;
+  margin-left: 380px;
+}
+
+.m_spec_descp.first:before {
+  content: '01';
+}
+
+.m_spec_descp.second:before {
+  content: '02';
+}
+
+.m_spec_descp.third:before {
+  content: '03';
+}
+
+.m_spec_descp.forth:before {
+  content: '04';
+}
+
+.m_info{
+  width:390px;
+  justify-content: flex-end;
+  padding-left: 117px;
+}
+
+.m_info_summit{
+  background-color: #131313;
+  width:390px;
+  height: 400px;
+  margin-top: -13px;
+}
+
+.form-info {
+  padding: 20px;
+  display: block;
+  background-color:#131313;
+  padding-right: 100px;
+}
+
+.form-info-question {
+  width: 883px;
+  height: 445px;
+  display: block;
+  position:relative;
+  background-color:#131313;
+  margin-top: 131px;
+  margin-bottom:-200px;
+  margin-left: 288.7px;
+}
+
+.form-info__label {
+  display: block;
+  border-bottom: 1px solid #fff;
+  margin-bottom: 30px;
+}
+
+
+
+.form-info__label._flex {
+  display:flex;
+  align-items: center;
+  border-bottom: none;
+}
+
+.form-info__title {
+  color: #fff;
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.form-info__input._checkbox {
+  width: auto;
+}
+
+.form-info__text {
+  display: block;
+  width: 100%;
+  color: #fff;
+  margin-bottom: 5px;
+}
+
+.form-info__input {
+  height: 25px;
+  color: #fff;
+  display: block;
+  width: 100%;
+}
+
+.form-info__input:focus {
+  border: none;
+  outline: 0;
+}
+
+.m_info_descp{
+  text-align: center;
+  padding-top: 27px;
+}
+
+input{
+  color:white;
+  display: block;
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  border-bottom: solid 1px;
+  height: 20px;
+}
+
+.m_call{
+  padding-left: 122px;
+}
+
+.m_help{
+  display: flex;
+  margin-bottom: 150px;
+  padding: 0 100px 100px 50px;;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 100px;
+}
+
+.img_piggy{
+  background-color: #E3B873;
+  border-radius: 100%;
+  width:72px;
+  height: 72px;
+  margin-right: 30px;
+}
+
+.piggy_bank{
+  width: 49px;
+  height: 37px;
+  padding-left: 11.5px;
+  padding-top: 13px;
+}
+
+.piggy_help{
+  color: #E3B873;
+  font-size: 20px;
+  line-height: 25px;
+}

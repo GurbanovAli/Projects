@@ -1,0 +1,64 @@
+.div_map{
+}
+
+.map_contacts{
+  font-family: 'Yeseva One';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.iconas{
+  display: flex;
+  padding-bottom: 20px;
+}
+
+.message_svg{
+  justify-content: flex-start;
+  width: 28px;
+  height: 28px;
+  margin-top: 26px;
+  margin-left:40%;
+  border-radius: 100%;
+  background-color:#E3B873;
+}
+
+.m_svg{
+  width: 18px;
+  height: 16px;
+  padding-top: 6px;
+}
+
+.map_contacts{
+  color: #E3B873;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 44px;
+}
+
+.message_inst{
+  justify-content: flex-end;
+  width: 28px;
+  height: 28px;
+  margin-left:15px;
+  margin-top: 26px;
+  border-radius: 100%;
+  background-color:#E3B873;
+}
+
+.m_inst{
+  width: 18px;
+  height: 16px;
+  padding-top: 6px;
+}
+
+.map{
+  width: 90%;
+  height: 230px;
+  padding: 5%;
+}
+
+input[type="text"]:focus {
+  color: #000000;
+  border: 1px solid #000000
+}

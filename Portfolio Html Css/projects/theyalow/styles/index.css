@@ -1,0 +1,261 @@
+.clearfix::after {
+	content:"";
+	display: table;
+	clear: both;
+}
+
+.container {
+	width:1020px;
+	margin: auto;
+}
+
+@media (max-width: 1020px) {
+	.container {
+		width: 100%;
+	}
+}
+
+.header-bg {
+	background-image: url(../images/bg-header.png);
+	background-size: cover;
+}
+
+
+.header {
+	padding-top: 24px;
+	box-sizing: border-box;
+}
+
+@media (max-width: 1020px) {
+	.header {
+		padding:0;
+	}
+}
+
+.logo-and-menu {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+@media (max-width: 1020px) {
+	.logo-and-menu {
+		display: flex;
+		flex-direction: row;
+		justify-content: flex-start;
+		align-items: space-between;
+	}
+}
+
+.logo {
+	width:450px;
+}
+
+@media (max-width: 1020px) {
+	.logo {
+		width:185px;
+		height: 57px;
+		background-image: url(../images/logo-bg.png);
+		background-repeat: no-repeat;
+		background-size: 100%;
+		box-shadow: 0 2px 5px 0 #000;		
+	}
+}
+
+.logo-img {
+	float:left;
+	height: 83px;
+	width: 83px;
+	background-image: url(../images/logo2.png),  url(../images/logo1.png);
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+@media (max-width: 1020px) {
+	.logo-img {
+		width: 50px;
+		height: 53px;
+		background-size: 40px;
+		box-sizing: border-box;
+	}
+}
+
+.logo__link {
+	padding: 0 83px 65px;
+}
+
+.logo__text {
+	float: left;
+	color: #fff;
+	width:355px;
+	padding-top:25px;
+}
+
+@media(max-width: 1020px) {
+	.logo__text {
+		width: 120px;
+	}
+}
+
+.logo__header{
+	color:#fff;
+	text-transform: uppercase;
+	font-style: italic;
+	font-family: sans-serif;
+	font-size: 25pt;
+}
+
+@media (max-width: 1020px) {
+	.logo__header {
+		font-size: 17pt;
+		line-height: 5px
+	}
+}
+
+.logo__indx {
+	color:#968f89;
+	font-style: normal;
+	font-weight: bold;
+	font-size:8pt;
+}
+
+@media (max-width: 1020px) {
+	.logo__indx {
+		display: none;
+	}
+}
+
+.header-menu {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	align-items: flex-start;
+	box-sizing: border-box;
+	background-color: #f5c506;
+	width: 452px;
+	height: 40px;
+	box-shadow: -5px -5px 0 rgba(245,197,6,0.5), -10px -10px 0 rgba(245,197,6,0.25);
+}
+
+@media (max-width: 1020px) {
+	.header-menu {
+		box-shadow: none;
+		flex-grow: 1;
+		height: 57px;
+		text-align: center;
+	}
+}
+
+.header-menu__item {
+	position: relative;
+	display: block;
+	float: left;
+	flex-grow: 1;
+	text-align: center;
+}
+
+@media (max-width: 1020px) {
+	.header-menu__item {
+		line-height: 57px;
+	}
+}
+
+.header-menu__item--services {
+	border-left: 1px solid #b99403;
+	border-right: 1px solid #b99403;
+}
+
+.header-menu__link {
+	display: inline-block;
+	position: relative;
+	text-decoration: none;
+	color:#b99403;
+	padding-left: 35px;
+	text-transform: uppercase;
+	font-size: 12pt;
+	font-family: Helvetica;
+	line-height: 40px;
+	height: 40px;
+}
+
+.header-menu__link:hover {
+	color: #4b483a;
+}
+
+.header-menu__link:before {
+	content: "";
+	display: inline-block;
+	position: absolute;
+	width: 30px;
+	height: 40px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin-left:-35px;
+	background-position: 50% 50%;
+}
+
+.header-menu__link--contact:before {
+	background-image: url(../images/mail.png);
+}
+
+.header-menu__link--about:before {
+	background-image: url(../images/about.png);
+}
+
+.header-menu__link--services:before {
+	background-image: url(../images/setting.png);
+}
+
+
+
+.header-playerblock {
+	padding-bottom: 68px;
+	padding-top: 53px;
+	display:flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: stretch;
+}
+
+@media (max-width: 1020px) {
+	.header-playerblock {
+		padding: 0;
+	}
+}
+
+@media (max-width: 1020px) {
+	.header-pl__player {
+		width: 100%;
+	}
+}
+
+@media (max-width: 1020px) {
+	.header-player__img {
+		width: 100%;
+		display: block;
+	}
+}
+
+.header-pl__text {
+	padding-top: 100px;
+	text-align: center;
+}
+
+@media (max-width: 1020px) {
+	.header-pl__text {
+		display: none;
+	}
+}
+
+.header-pl__words {
+	color: #f5c506;
+	text-transform: uppercase;
+	font-size:30pt;
+	font-family: sans-serif;
+	line-height: 50px;
+}
+
+.header-pl__words--white {
+	color:#fff;
+}

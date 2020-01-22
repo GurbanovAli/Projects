@@ -1,0 +1,153 @@
+.footer-bg {
+	background-image: url(../images/Layer32.png);
+	background-size: cover;
+}
+
+.footer--grey {
+	padding: 0 140px;
+}
+
+.footer__header {
+	margin: auto;
+	width:601px;
+	padding-top: 40px;
+	padding-bottom: 14px;
+}
+
+.f__h--header {
+	color: #f5c506;
+	text-align: center;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-size: 28pt;
+}
+
+.footer-content {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-end; 
+	padding-bottom:108px;
+}
+
+.footer-images {
+	width:55%;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center
+}
+
+.footer--laptop {
+	width:340px;
+	height: 293px;
+	background-image: url(../images/komp.png);
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+}
+
+.f--l--circle {
+	width:116px;
+	height: 116px;
+	background-color: #f5c506;
+	border-radius: 180px;
+}
+
+.f--l--c__text {
+	color: #fff;
+	text-transform: uppercase;
+	text-align: center;
+	line-height: 120px;
+	font-family: sans-serif;
+	font-size: 11pt;
+	font-weight: bold;
+}
+
+.footer--pad {
+	width:129px;
+	height: 293px;
+	background-image: url(../images/pad.png);
+	background-repeat: no-repeat;
+	background-position: 100% 65%;
+}
+
+.footer--phone {
+	width:39px;
+	height: 293px;
+	background-image: url(../images/phone.png);
+	background-repeat: no-repeat;
+	background-position: 100% 81%;
+}
+
+.footer-text {
+	width:35%;
+}
+
+
+.footer-text__item {
+	color: #a9a9a7;
+	font-size: 15pt;
+	font-family: sans-serif;
+	padding-left: 20px;
+	padding-bottom: 15px;
+
+}
+
+.footer-text__item:before {
+	display: inline-block;
+	content: "";
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: #f5c506;
+	margin-left: -10px; 
+}
+
+
+
+.section--grey {
+	background-color: #4c4c4c;
+	box-shadow: 0 -3px 15px  #222;
+}
+
+.copyright {
+	padding: 5px 140px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.footer-logo {
+	width: 170px;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.f-l__img {
+	background-image: url(../images/logo2.png),  url(../images/logo1.png);
+	height: 50px;
+	width: 50px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.f-l__text {
+	color: #fff;
+	text-transform: uppercase;
+	font-style: italic;
+	font-family: sans-serif;
+	font-size: 15pt;
+}
+
+.copyright-text {
+	width: 200px;
+}
+
+.c-t__text {
+	color: #fff;
+	font-family: sans-serif;
+	font-size: 11pt;
+}

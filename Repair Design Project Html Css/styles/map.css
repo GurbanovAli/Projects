@@ -1,0 +1,66 @@
+.div_map{
+  background: linear-gradient( rgba(0, 0, 0, 0.93), rgba(0, 0, 0, 0.93)), url(../images/bcgimg.png);
+  height: 953.9px;
+}
+
+.map_contacts{
+  font-family: 'Yeseva One';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+}
+
+.iconas{
+  display: flex;
+}
+
+.message_svg{
+  justify-content: flex-start;
+  width: 28px;
+  height: 28px;
+  margin-top: 26px;
+  margin-left:692px;
+  border-radius: 100%;
+  background-color:#E3B873;
+}
+
+.m_svg{
+  width: 18px;
+  height: 16px;
+  padding-top: 6px;
+}
+
+.map_contacts{
+  color: #E3B873;
+  text-transform: uppercase;
+  text-align: center;
+  padding-top: 274px;
+}
+
+.message_inst{
+  justify-content: flex-end;
+  width: 28px;
+  height: 28px;
+  margin-left:15px;
+  margin-top: 26px;
+  border-radius: 100%;
+  background-color:#E3B873;
+}
+
+.m_inst{
+  width: 18px;
+  height: 16px;
+  padding-top: 6px;
+}
+
+.map{
+  width: 952px;
+  height: 443px;
+  padding-top: 31px;
+  padding-left: 125px;
+}
+
+input[type="text"]:focus {
+  color: #000000;
+  border: 1px solid #000000
+}

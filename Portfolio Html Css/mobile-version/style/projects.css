@@ -1,0 +1,90 @@
+.project-text{
+  border-top: 2px solid;
+  border-bottom: 2px solid;
+}
+
+.the-projects{
+  font-family: "Yeseva One";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 27px;
+  line-height: 28px;
+  text-align: center;
+}
+
+.projects{
+  color: #fff;
+  font-family: "Yeseva One";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 22px;
+  line-height: 22px;
+  max-width: 80%;
+  height: 492px;
+  padding: 5% 5% 5% 2.5%;
+  margin-left: 10%;
+}
+
+.description__link{
+  font-family: "Yeseva One";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 20px;
+  max-width: 100%;
+}
+
+.href_link{
+  max-width: 100%;
+  position: relative;
+  top: -5px;
+  padding-bottom: 10px;
+}
+
+.image-theyalow{
+   height: 150px;
+  object-fit: cover;
+  padding-left: 20px;
+}
+
+div.panel_first{
+   max-width: 99%;
+   margin: auto;
+   margin-top: calc(0.5% - 0px);
+}
+
+div.panel{
+   max-width: 99%;
+   margin: auto;
+   margin-bottom: calc(0.5% - 0px);
+}
+
+details{
+         box-shadow:0 0 2px rgba(0,0,0,0.12),0 2px 4px rgba(0,0,0,0.24);
+       display:flex;
+     }
+
+   details[open]{
+       margin-top:16px;
+       margin-bottom:16px;
+       border:none;
+       border-radius: 2px;
+   }
+
+   details[open]:first-child{
+       margin-top:0;
+       margin-bottom:16px;
+       border:none;
+   }
+   details[open]:last-child{
+       margin-top:16px;
+       margin-bottom:26px;
+       border:none;
+   }
+
+   summary{
+       outline:none;
+       cursor: pointer;
+       padding: 16px 24px;
+       position: relative;
+   }

@@ -1,0 +1,100 @@
+.m_info{
+  width:390px;
+  justify-content: flex-end;
+  padding-left: 117px;
+}
+
+.m_info_summit{
+  background-color: #131313;
+  width:390px;
+  height: 400px;
+  margin-top: -13px;
+}
+
+.form-info {
+  display: block;
+  background-color:#131313;
+  padding-top: 5%;
+  padding-right: 5%;
+  padding-left: 5%;
+}
+
+.form-info-question {
+  width: 100%;
+  height: 445px;
+  display: block;
+  position:relative;
+  background-color:#131313;
+  margin-top: 131px;
+  margin-bottom:-200px;
+  margin-left: 288.7px;
+}
+
+.form-info__label {
+  display: block;
+  border-bottom: 1px solid #fff;
+  margin-bottom: 30px;
+}
+
+
+
+.form-info__label._flex {
+  display:flex;
+  align-items: center;
+  border-bottom: none;
+}
+
+.form-info__title {
+  font-family: "Yeseva One";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+  display: block;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.form-info__input._checkbox {
+  width: auto;
+}
+
+.form-info__text {
+  display: block;
+  width: 100%;
+  color: #fff;
+  margin-bottom: 5px;
+}
+
+.form-info__input {
+  height: 25px;
+  color: #fff;
+  display: block;
+  width: 100%;
+}
+
+.form-info__input:focus {
+  border: none;
+  outline: 0;
+}
+
+.m_info_descp{
+  text-align: center;
+  padding-top: 27px;
+}
+
+input{
+  color:white;
+  display: block;
+  width: 100%;
+  background-color: transparent;
+  border: none;
+  border-bottom: solid 1px;
+  height: 20px;
+}
+.m_call{
+  padding-left: 15%;
+}
