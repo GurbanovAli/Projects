@@ -18,6 +18,3 @@ January 14 |      January 15 |      8h                 | add canvas-size, pen-si
 
 
 
-Description my worklog:
-
-On January 8, I had an exam in special English at the magistracy of the Faculty of International Relations of BSU, 4-5 days I was preparing for the exam, despite this I tried to make a maximum of piskel clone, also on January 13 there was a second exam, I hope the mentor who checks this task will understand me and will remove the deadline because it was hard for me with the exam and piskel clone is the most difficult project in my life
