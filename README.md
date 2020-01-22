@@ -1,16 +1,16 @@
 # Projects
 
-# My the main Projects in The Rolling Scopes School (Epam)
+### My the main Projects in The Rolling Scopes School (Epam)
 
-### Main project Piskel Clone (great project for drawing and animating. Written on the React framework)
+#### Main project Piskel Clone (great project for drawing and animating. Written on the React framework)
 
 Public link : https://gurbanovali.github.io/Piskel-Clone/#/
 
-### Fancy Weather (weather app with many features)
+#### Fancy Weather (weather app with many features)
 
 Public link : https://gurbanovali-fancy-weather.netlify.com/
 
-### Presentation on the topic Scrum (presentation for checking English on YouTube channel)
+#### Presentation on the topic Scrum (presentation for checking English on YouTube channel)
 
 Public Link in reveal.js: https://gurbanovali.github.io/Presentation/
 
@@ -18,11 +18,11 @@ The Public Link in Youtube Channel: https://www.youtube.com/watch?v=3XhlrvrjVMY&
 
 MY full version of presentation on: https://slides.com/gurbanovali/deck/live?context=editing#/
 
-### Repair Design Project (great design site in html and css)
+#### Repair Design Project (great design site in html and css)
 
 Public link : https://gurbanovali.github.io/repair-design-project/
 
-### Portfolio (portfolio site with my skills, on html css)
+#### Portfolio (portfolio site with my skills, on html css)
 
 Public link : https://gurbanovali.github.io/Portfolio/
 
@@ -65,17 +65,17 @@ HTML/CSS
 -    CSS animation
 -    Selectors specificity
 
-# My Projects for skills 
+### My Projects for skills 
 
-### Game of Snake (my first project in JS)
+#### Game of Snake (my first project in JS)
 
 Public link : https://gurbanovali.github.io/second-Game/
 
-### Game of Birds (simple game, to improve knowledge)
+#### Game of Birds (simple game, to improve knowledge)
 
 Public link :https://gurbanovali.github.io/myFirstGame/
 
-### ToDoList (my first and only project on Angular)
+#### ToDoList (my first and only project on Angular)
 
 
 
@@ -96,10 +96,8 @@ Start      |       End        |  Task-name
 
 
 My Contacts 
-
-Tel/Telegram : +375333833458
-
-Skype : Ali Gurbanov
+- Tel/Telegram : +375333833458
+- Skype : Ali Gurbanov
 
 
 
