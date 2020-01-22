@@ -1,9 +1,9 @@
 # Projects
-## My Projects in RSschool and others
+### My Projects in RSschool and others
 
 # My the main Projects in The Rolling Scopes School (Epam)
 
-Main project Piskel Clone (great project for drawing and animating. Written on the React framework)
+### Main project Piskel Clone (great project for drawing and animating. Written on the React framework)
 
 Public link : https://gurbanovali.github.io/Piskel-Clone/#/
 
