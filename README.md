@@ -28,7 +28,6 @@ Public link : https://gurbanovali.github.io/Portfolio/
 
 We also learned a lot more in RSschool and passed tests and tasks on codewars and core js.
 Passed a technical interview in epam throughout the theory of JavaScript and got 7 points out of 10.
-Tem
 
 ####  Topics on interview
 
