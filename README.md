@@ -14,8 +14,6 @@ Public link : https://gurbanovali-fancy-weather.netlify.com/
 
 Public Link in reveal.js: https://gurbanovali.github.io/Presentation/
 
-The Public Link in Youtube Channel: https://www.youtube.com/watch?v=3XhlrvrjVMY&feature=youtu.be
-
 MY full version of presentation on: https://slides.com/gurbanovali/deck/live?context=editing#/
 
 ####  Repair Design Project (great design site in html and css)
