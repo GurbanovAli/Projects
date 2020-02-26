@@ -6,7 +6,7 @@
 
 Public link : https://gurbanovali.github.io/Piskel-Clone/#/
 
-#### The Songbird ( guessing birds by voice game )
+#### The Songbird (guessing birds by voice game)
 
 Public link : https://the-songbird-gurbanovali.netlify.com/
 
