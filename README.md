@@ -18,6 +18,10 @@ Public link : https://gurbanov-ali-culture-portal.netlify.com
 
 Public link : https://gurbanovali-fancy-weather.netlify.com/
 
+#### Virtual keyboard (simple keyboard in JS)
+
+Public link : https://gurbanovali.github.io/codejam-virtual-keyboard/
+
 ####  Presentation on the topic Scrum (presentation for checking English on YouTube channel)
 
 Public Link in reveal.js: https://gurbanovali.github.io/Presentation/

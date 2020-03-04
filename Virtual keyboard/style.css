@@ -1,0 +1,118 @@
+#main {
+    display: flex;
+    margin: 0 auto;
+    flex-wrap: wrap;
+    width: 860px;
+    height: 250px;
+    transition: 3s;
+}
+
+@keyframes show{
+    0%{
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
+}
+
+#textarea {
+    margin: 10px auto;
+    width: 860px;
+    height: 350px;
+    margin-bottom: 15px;
+    font-size: 30px;
+    background-color: rgba(255, 255, 255, 1);
+    color: rgba(10, 10, 10, 0.69);
+    border: 1px solid rgba(10, 10, 10, 0.69);
+}
+
+section {
+    display: flex;
+    flex-wrap: wrap;
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+    margin: 0 2px 2px 0;
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    background-color: #fff;
+    color: rgb(0, 0, 0);
+    opacity: 0.85;
+    background-position: left;
+    font-weight: 800;
+}
+
+section:hover{
+   background-color: #d6d6d6;
+}
+
+#keyboard {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    width: 810px;
+    height: 250px;
+}
+
+#Backspace {
+    width: 104px;
+}
+
+#Tab{
+    width: 104px;
+}
+
+#CapsLock {
+    width: 77px;
+}
+
+#Enter {
+    width: 77px;
+}
+
+#ShiftLeft {
+    width: 104px;
+}
+
+#Space {
+    width: 374px;
+}
+
+#ShiftRight {
+    width: 104px;
+}
+
+.upperCase {
+    text-transform: uppercase;
+}
+
+.change {
+    z-index: 2;
+    display: flex;
+    background-color: #000;
+    color: #fff;
+    border: 1px solid rgb(71, 233, 255);
+    justify-content: center;
+    align-items: center;
+    opacity: 1;
+}
+
+.changeCaps {
+    display: flex;
+    background-color: #000;
+    color: #fff;
+    border: 1px solid rgb(71, 233, 255);
+    justify-content: center;
+    align-items: center;
+}
+
+.changeShift {
+    display: flex;
+    background-color: #000;
+    color: #fff;
+    border: 1px solid rgb(71, 233, 255);
+    justify-content: center;
+    align-items: center;
+}
