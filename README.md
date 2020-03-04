@@ -1,6 +1,6 @@
 # Projects description
 
-###  My the main Projects in The Rolling Scopes School (Epam)
+###  My the main Projects in The Rolling Scopes School (Epam) and others
 
 ####  Main project Piskel Clone (great project for drawing and animating. Written on the React framework)
 
