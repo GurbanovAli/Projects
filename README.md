@@ -107,7 +107,7 @@ Start      |       End        |  Task-name
 
 My Contacts 
 - Tel/Telegram : +375333833458
-- Skype : Ali Gurbanov
+- Skype :Ali Gurbanov
 
 
 
