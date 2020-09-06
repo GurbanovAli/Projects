@@ -1,6 +1,8 @@
 # gurbanovali-RS2019Q3
 Private repository for @gurbanovali
 
+Public link : https://gurbanovali.github.io/Piskel-Clone/
+
 My Worklog
 
 Start time |      End time   |     Time spent          | feature  
